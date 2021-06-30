@@ -54,7 +54,7 @@ Organisationen müssen die folgenden drei Schritte ausführen, um die Verwendung
 1. Wählen Sie unter **Bedingungen** die Option **Client-Apps (Vorschau)** aus.
    1. Legen Sie **Konfigurieren** auf **Ja** fest.
    1. Wählen Sie **Mobile Apps und Desktopclients** und **Clients mit moderner Authentifizierung** aus.
-1. Wählen Sie unter **Zugriffssteuerung** > **Erteilen** die Option **Zugriff erteilen**, dann **Genehmigte Client-App erforderlich** und anschließend **Auswählen** aus.
+1. Wählen Sie unter **Zugriffssteuerung** > **Gewähren** die Option **Zugriff gewähren**, dann **Genehmigte Client-App erforderlich** und anschließend **Auswählen** aus.
 1. Bestätigen Sie die Einstellungen und legen Sie **Richtlinie aktivieren** auf **Ein** fest.
 1. Wählen Sie **Erstellen** aus, um die Richtlinie zu erstellen und zu aktivieren.
 
@@ -71,7 +71,7 @@ Organisationen müssen die folgenden drei Schritte ausführen, um die Verwendung
    1. **Client-Apps (Vorschau):**
       1. Legen Sie **Konfigurieren** auf **Ja** fest.
       1. Wählen Sie **Mobile Apps und Desktopclients** und **Exchange ActiveSync-Clients** aus.
-1. Wählen Sie unter **Zugriffssteuerung** > **Erteilen** die Option **Zugriff erteilen**, dann **Genehmigte Client-App erforderlich** und anschließend **Auswählen** aus.
+1. Wählen Sie unter **Zugriffssteuerung** > **Gewähren** die Option **Zugriff gewähren**, dann **Genehmigte Client-App erforderlich** und anschließend **Auswählen** aus.
 1. Bestätigen Sie die Einstellungen und legen Sie **Richtlinie aktivieren** auf **Ein** fest.
 1. Wählen Sie **Erstellen** aus, um die Richtlinie zu erstellen und zu aktivieren.
 
@@ -101,7 +101,7 @@ Organisationen müssen die folgenden drei Schritte ausführen, um die Verwendung
 1. Wählen Sie unter **Bedingungen** die Option **Client-Apps (Vorschau)** aus.
    1. Legen Sie **Konfigurieren** auf **Ja** fest.
    1. Wählen Sie **Mobile Apps und Desktopclients** und **Clients mit moderner Authentifizierung** aus.
-1. Wählen Sie unter **Zugriffssteuerung** > **Erteilen** die Option **Zugriff erteilen**, dann **Genehmigte Client-App erforderlich** und anschließend **Auswählen** aus.
+1. Wählen Sie unter **Zugriffssteuerung** > **Gewähren** die Option **Zugriff gewähren**, dann **Genehmigte Client-App erforderlich** und anschließend **Auswählen** aus.
 1. Bestätigen Sie die Einstellungen und legen Sie **Richtlinie aktivieren** auf **Ein** fest.
 1. Wählen Sie **Erstellen** aus, um die Richtlinie zu erstellen und zu aktivieren.
 
@@ -118,7 +118,7 @@ Organisationen müssen die folgenden drei Schritte ausführen, um die Verwendung
    1. **Client-Apps (Vorschau):**
       1. Legen Sie **Konfigurieren** auf **Ja** fest.
       1. Wählen Sie **Mobile Apps und Desktopclients** und **Exchange ActiveSync-Clients** aus.
-1. Wählen Sie unter **Zugriffssteuerung** > **Erteilen** die Option **Zugriff erteilen**, dann **Genehmigte Client-App erforderlich** und anschließend **Auswählen** aus.
+1. Wählen Sie unter **Zugriffssteuerung** > **Gewähren** die Option **Zugriff gewähren**, dann **Genehmigte Client-App erforderlich** und anschließend **Auswählen** aus.
 1. Bestätigen Sie die Einstellungen und legen Sie **Richtlinie aktivieren** auf **Ein** fest.
 1. Wählen Sie **Erstellen** aus, um die Richtlinie zu erstellen und zu aktivieren.
 
